@@ -1,6 +1,6 @@
 FROM debian:bullseye
 
-LABEL maintainer="github.com/sunshanpeng"
+LABEL maintainer=""
 
 ENV OPENAI_API_KEY ''
 
